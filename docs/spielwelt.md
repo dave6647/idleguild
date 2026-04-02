@@ -4,7 +4,29 @@
 
 ## 🌍 Grundkonzept
 
-Die Spielwelt ist **eine Stadt** mit umliegenden Gebieten. Statt einer offenen Welt navigiert der Spieler im BitLife-Stil durch **Orte als Menüpunkte**, an denen Aktionen ausgeführt werden können. Die Stadt verändert sich über die Generationen der Dynastie. Der Spieler kann die Startstadt **frei wählen**, bleibt aber für die gesamte Dynastie in dieser Stadt. Aktionen pro Jahr sind **unbegrenzt**. Weltereignisse sind **historisch korrekt**.
+Die Spielwelt ist **eine Stadt** mit umliegenden Gebieten. Statt einer offenen Welt navigiert der Spieler im BitLife-Stil durch **Orte als Menüpunkte**, an denen Aktionen ausgeführt werden können. Die Stadt verändert sich über die Generationen der Dynastie. Der Spieler kann die Startstadt **frei wählen**, bleibt aber für die gesamte Dynastie in dieser Stadt. Weltereignisse sind **historisch korrekt**.
+
+---
+
+## ⏳ Jahresfortschritt – Saison-System
+
+Jedes Jahr ist in **4 Jahreszeiten** unterteilt. Pro Saison stehen dem Spieler **3 Aktionen** zur Verfügung, also insgesamt **12 Aktionen pro Jahr**. Bestimmte Events und Aktionen sind an bestimmte Jahreszeiten gebunden.
+
+| Element | Wert |
+|---|---|
+| Jahreszeiten | 4 (Frühling, Sommer, Herbst, Winter) |
+| Aktionen pro Saison | 3 |
+| **Aktionen pro Jahr** | **12** |
+| Saisonale Events | Ja, bestimmte Aktionen nur in bestimmten Jahreszeiten |
+
+### 🌿 Saisonale Besonderheiten
+
+| Saison | Exklusive Events & Boni |
+|---|---|
+| 🌸 **Frühling** | Aussaat, neue Lehrlinge einstellen, Bauprojekte starten, Reisesaison beginnt |
+| ☀️ **Sommer** | Turniere, Jahrmärkte, beste Jagdsaison, Fernhandel-Karawanen |
+| 🍂 **Herbst** | Ernte einfahren, Markt-Hochsaison (beste Preise), Wahlen, Gildenversammlungen |
+| ❄️ **Winter** | Krankheitsgefahr erhöht, Einkehr (+Gesundheit zu Hause), Weihnachtsfeste (+Glaube), Planung fürs nächste Jahr |
 
 ---
 
@@ -128,4 +150,4 @@ Weltereignisse sind historisch korrekt und beeinflussen das Gameplay.
 
 ## 📱 Navigation (Handy-UI)
 
-Die Navigation durch die Stadt funktioniert als Menü-System im BitLife-Stil. Der Spieler sieht eine Liste aller verfügbaren Orte, geordnet nach Kategorien (Privat, Wirtschaft, Politik, Kirche, Soziales, Außerhalb). Orte, für die der Spieler die Zugangsvoraussetzungen nicht erfüllt, werden mit einem Schloss-Symbol angezeigt. Aktionen pro Jahr sind unbegrenzt – der Spieler kann so viele Orte besuchen wie er möchte, bevor er zum nächsten Jahr weitergeht.
+Die Navigation durch die Stadt funktioniert als Menü-System im BitLife-Stil. Der Spieler sieht pro Saison eine Liste aller verfügbaren Orte, geordnet nach Kategorien (Privat, Wirtschaft, Politik, Kirche, Soziales, Außerhalb). Orte, für die der Spieler die Zugangsvoraussetzungen nicht erfüllt, werden mit einem Schloss-Symbol angezeigt. Pro Saison können 3 Aktionen ausgeführt werden. Saisonale Exklusiv-Events werden besonders hervorgehoben. Nach Verbrauch aller 3 Aktionen einer Saison geht es automatisch zur nächsten Jahreszeit weiter. Nach dem Winter beginnt das nächste Jahr.
